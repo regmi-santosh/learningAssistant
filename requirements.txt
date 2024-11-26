@@ -1,0 +1,7 @@
+streamlit 
+langchain 
+openai 
+langgraph 
+beautifulsoup4
+requests 
+youtube-transcript-api
